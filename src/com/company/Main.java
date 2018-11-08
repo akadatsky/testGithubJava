@@ -12,7 +12,7 @@ public class Main {
     }
 
     private static void sort(int[] arr) {
-        // TODO sort array
+        Arrays.sort (arr);
     }
 
 }
